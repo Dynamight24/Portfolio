@@ -18,7 +18,7 @@ export const ProjectCardData = [
   },
   {
     imgsrc: Sentiment,
-    title: "Sentiment analysis of youtube comments",
+    title: "Sentiment analysis ",
     text: "Website that can show you the comment sentiment as positive, negative and neutral for a youtube video",
     view: "https://www.google.com",
   },
