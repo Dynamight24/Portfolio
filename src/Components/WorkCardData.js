@@ -14,7 +14,7 @@ export const ProjectCardData = [
     imgsrc: Mumble,
     title: "Mimic",
     text: "A Discord like website using webrtc and signaling sdk and chat sdk of agora. In Mimic you can create room, join room, video call and real time chat just like discord.",
-    view: "https://tesla-clone-phi-smoky.vercel.app/",
+    view: "https://mimic-virid.vercel.app/",
   },
   {
     imgsrc: Sentiment,
@@ -26,12 +26,17 @@ export const ProjectCardData = [
     imgsrc: calco,
     title: "Calco | A Converter Application",
     text: "An Android Application using Kotlin and Android Studio Which can calculate BMI, temp converter, sum of n numbers.",
-    view: "https://www.google.com",
+    view: "https://github.com/Dynamight24/Calco",
   },
   {
     imgsrc: sociopedia,
     title: "Sociopedia",
     text: "A Responsive Social Media Platform Website with Authentication, Dark Mode, Login etc in which you can create your individual profile, add posts with text and pictures, like different posts, send and receive friend requests etc.",
-    view: "https://www.google.com",
+    view: "https://github.com/Dynamight24/Sociopedia",
+  },
+   imgsrc: ,
+    title: "WhatsUp",
+    text: "a Responsive Realtime Chatting Platform Website with Authentication , Login etc, in which you can create your individual profile with a username and a display picture and chat with other existing user in realtime.",
+    view: "https://github.com/Dynamight24/ChatApp",
   },
 ];
