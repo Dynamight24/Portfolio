@@ -1,5 +1,5 @@
 import DrumKit from "../images/Screenshot 2024-05-30 103126.png";
-import Mumble from "../images/WhatsApp Image 2024-05-30 at 10.34.37 AM.jpeg";;
+import Mumble from "../images/WhatsApp Image 2024-05-30 at 10.34.37 AM.jpeg";
 import Sentiment from "../images/WhatsApp Image 2024-05-30 at 10.34.55 AM.jpeg"
 import sociopedia from "../images/WhatsApp Image 2024-05-30 at 10.35.08 AM.jpeg"
 import calco from "../images/WhatsApp Image 2024-05-30 at 10.35.22 AM.jpeg"
