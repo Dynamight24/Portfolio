@@ -7,10 +7,10 @@ import CSS from "../images/CSS-Logo.png"
 import JS from "../images/JavaScript-logo.png"
 import REACT from "../images/react-icon-221711.png"
 import node from "../images/nodejs-45adbe594d.png"
-import flutter from "../images/flutter.png"
-import mongo from "../images/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"
-import firebase from "../images/firebase.png"
-import web from "../images/web.png"
+import flutter from "../images/flutter5786-removebg-preview.png"
+import mongo from "../images/MongoDB-Emblem-removebg-preview.png"
+import firebase from "../images/logo-vertical-removebg-preview.png"
+import web from "../images/webrtc-logo-vert-retro-255x305.png"
 
 const images = [
     { imageUrl: HTML, text: '' },
