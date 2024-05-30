@@ -3,7 +3,7 @@ import React from "react";
 import IntroImg from "../images/intro-bg.jpg";
 import { Link } from "react-router-dom";
 import { FaFacebook } from "react-icons/fa";
-import resume from "../images/"
+
 
 const Heroimg = () => {
   return (
