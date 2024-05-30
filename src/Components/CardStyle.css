@@ -22,7 +22,7 @@
 
 .project-card {
     background: #000;
-    margin: 2rem auto; /* Center each card within its grid cell */
+    margin: 0.5rem auto; /* Center each card within its grid cell */
     padding: 1.2rem;
     width: 100%; /* Ensure cards take up full width of grid cell */
     box-sizing: border-box;
