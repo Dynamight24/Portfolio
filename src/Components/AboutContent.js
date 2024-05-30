@@ -13,7 +13,8 @@ const AboutContent = () => {
       </div>
       <div className="right">
         <h1>Who Am I?</h1>
-        <p>lorem emsom jdskfj jklasdjfkj jsa jdskjf kajsk jklsj kajs kjls jlkfj sjaiofjklsa f</p>
+        <p>HI,I am Aayush Narang, Your Friendly Neighbourhood Full Stack Developer. I am 21, currently in my final year pursuing IT engineering from UIET,Panjab University. I am a coding entusiasts with great problem skills. I have solved around 200+ questions on leetcode and have made many projects using tech like React, Node, Firebase..  </p>
+        <p>Have a great time visiting my portfolio!!!!</p>
         <Link to="/contact">
           <button className="btn">Contact</button>
         </Link>

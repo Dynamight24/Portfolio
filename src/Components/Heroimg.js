@@ -3,6 +3,7 @@ import React from "react";
 import IntroImg from "../images/intro-bg.jpg";
 import { Link } from "react-router-dom";
 import { FaFacebook } from "react-icons/fa";
+import resume from "../images/"
 
 const Heroimg = () => {
   return (
@@ -14,13 +15,13 @@ const Heroimg = () => {
         <p>Hi, I am Aayush</p>
         <h1> Full Stack Developer.</h1>
         <div className="btn-container">
-          <Link to="/project" className="btn">
-            Projects
+          <Link to="/About" className="btn">
+            About
           </Link>
-          <Link to="/Skills" className="btn btn-light">
-            {" "}
-            Skills{" "}
-          </Link>
+          <a href="" className="btn btn-light" target="_blank" rel="noopener noreferrer">
+  Resume
+</a>
+
         </div>
       </div>
     </div>

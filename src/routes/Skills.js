@@ -7,7 +7,7 @@ const Skills = () => {
   return (
     <div>
       <Navbar/>
-      <Heroimg2 heading="SKILLS." text="My unending Skills are below"/>
+      <Heroimg2 heading="SKILLS." text="My UNENDING Skills are below!!!"/>
       <ImageGrid/>
     </div>
   )

@@ -1,28 +1,37 @@
-import pro1 from "../images/Netflix-Emblem.jpg";
-import pro3 from "../images/fb8237a5af652e7d8abe10016ef0e280.jpg";;
+import DrumKit from "../images/Screenshot 2024-05-30 103126.png";
+import Mumble from "../images/WhatsApp Image 2024-05-30 at 10.34.37 AM.jpeg";;
+import Sentiment from "../images/WhatsApp Image 2024-05-30 at 10.34.55 AM.jpeg"
+import sociopedia from "../images/WhatsApp Image 2024-05-30 at 10.35.08 AM.jpeg"
+import calco from "../images/WhatsApp Image 2024-05-30 at 10.35.22 AM.jpeg"
 export const ProjectCardData = [
   {
-    imgsrc: pro1,
-    title: "Netflix-Clone",
-    text: "ksajdfkjasdjfiojsdofijoismcijsf",
-    view: "https://www.google.com",
+    imgsrc: DrumKit,
+    title: "DrumKit",
+    text: "A fun Keyboard Drum Website Using HTML, CSS and JavaScript which Turns keyboard keys to drum sounds.",
+    view: "https://drum-kit-bay.vercel.app/",
   },
   {
-    imgsrc: pro3,
-    title: "Tesla-Clone",
-    text: "ksajdfkjasdjfiojsdofijoismcijsf",
+    imgsrc: Mumble,
+    title: "Mimic",
+    text: "A Discord like website using webrtc and signaling sdk and chat sdk of agora. In Mimic you can create room, join room, video call and real time chat just like discord.",
     view: "https://tesla-clone-phi-smoky.vercel.app/",
   },
   {
-    imgsrc: pro1,
-    title: "Netflix-Clone",
-    text: "ksajdfkjasdjfiojsdofijoismcijsf",
+    imgsrc: Sentiment,
+    title: "Sentiment analysis of youtube comments",
+    text: "Website that can show you the comment sentiment as positive, negative and neutral for a youtube video",
     view: "https://www.google.com",
   },
   {
-    imgsrc: pro1,
-    title: "Netflix-Clone",
-    text: "ksajdfkjasdjfiojsdofijoismcijsf",
+    imgsrc: calco,
+    title: "Calco | A Converter Application",
+    text: "An Android Application using Kotlin and Android Studio Which can calculate BMI, temp converter, sum of n numbers.",
+    view: "https://www.google.com",
+  },
+  {
+    imgsrc: sociopedia,
+    title: "Sociopedia",
+    text: "A Responsive Social Media Platform Website with Authentication, Dark Mode, Login etc in which you can create your individual profile, add posts with text and pictures, like different posts, send and receive friend requests etc.",
     view: "https://www.google.com",
   },
 ];

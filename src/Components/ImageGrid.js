@@ -6,17 +6,22 @@ import HTML from "../images/OIP.png"
 import CSS from "../images/CSS-Logo.png"
 import JS from "../images/JavaScript-logo.png"
 import REACT from "../images/react-icon-221711.png"
+import node from "../images/nodejs-45adbe594d.png"
+import flutter from "../images/flutter.png"
+import mongo from "../images/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"
+import firebase from "../images/firebase.png"
+import web from "../images/web.png"
 
 const images = [
-    { imageUrl: HTML, text: '75%' },
-    { imageUrl: CSS, text: '80%' },
-    { imageUrl: JS, text: '60%' },
-    { imageUrl: REACT, text: '90%' },
-    { imageUrl: pro1, text: '10%' },
-    { imageUrl: pro1, text: '25%' },
-    { imageUrl: pro1, text: '25%' },
-    { imageUrl: pro1, text: '25%' },
-    { imageUrl: pro1, text: '25%' },
+    { imageUrl: HTML, text: '' },
+    { imageUrl: CSS, text: '' },
+    { imageUrl: JS, text: '' },
+    { imageUrl: REACT, text: '' },
+    { imageUrl: node, text: '' },
+    { imageUrl: flutter, text: '' },
+    { imageUrl: mongo, text: '' },
+    { imageUrl: firebase, text: '' },
+    { imageUrl: web, text: '' },
     // Add more images as needed
 ];
 
@@ -24,7 +29,6 @@ const ImageGrid = () => {
     return (
         <div className='heading'>
         <h1 className='project-heading' >Skills</h1>
-        <div><p>Place your cursor on the below skills to know the percentage.</p></div>
         <div className="image-grid">
             
             {images.map((image, index) => (
