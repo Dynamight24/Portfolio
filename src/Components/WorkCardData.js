@@ -20,7 +20,7 @@ export const ProjectCardData = [
     imgsrc: Sentiment,
     title: "Sentiment analysis ",
     text: "Website that can show you the comment sentiment as positive, negative and neutral for a youtube video",
-    view: "https://www.google.com",
+    view: "https://colab.research.google.com/drive/1XL5BK2Eys3Mc7eYKhC9simluyaQhFEnb?usp=sharing",
   },
   {
     imgsrc: calco,
