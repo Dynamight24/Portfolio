@@ -33,10 +33,6 @@ export const ProjectCardData = [
     title: "Sociopedia",
     text: "A Responsive Social Media Platform Website with Authentication, Dark Mode, Login etc in which you can create your individual profile, add posts with text and pictures, like different posts, send and receive friend requests etc.",
     view: "https://github.com/Dynamight24/Sociopedia",
-  },
-   imgsrc: ,
-    title: "WhatsUp",
-    text: "a Responsive Realtime Chatting Platform Website with Authentication , Login etc, in which you can create your individual profile with a username and a display picture and chat with other existing user in realtime.",
-    view: "https://github.com/Dynamight24/ChatApp",
-  },
+  }
+   
 ];
