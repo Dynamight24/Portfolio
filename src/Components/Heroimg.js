@@ -18,7 +18,7 @@ const Heroimg = () => {
           <Link to="/About" className="btn">
             About
           </Link>
-          <a href="https://drive.google.com/file/d/1AEyt296Ay39mq67qIs3mOCgtfJe1QzW7/view?usp=drive_link" className="btn btn-light" target="blank" rel="noopener noreferrer">
+          <a href="https://docs.google.com/document/d/1DN4CgwQ-I4vP7Ee6Gckmy1BfTk2pksSzgtIb56a44RA/edit?usp=sharing" className="btn btn-light" target="blank" rel="noopener noreferrer">
   Resume
 </a>
 
